@@ -3,7 +3,7 @@ Telegram Airdrop Bot Full Code, With Twitter Force Follow Checking, telegram sub
 checking, users details save in excel file, even
 can see users details,
 
-Demo :   https://t.me/DemoJasilbot
+Demo : pm me  https://t.me/Jasil6684
 
 
 
